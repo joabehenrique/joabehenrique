@@ -2,7 +2,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://dev.to/henriquecido"><img src="https://img.shields.io/badge/DEV.to-000?style=flat&logo=dev.to&logoColor=white
+  <a href = "https://dev.to/henriquecido"><img src="https://img.shields.io/badge/DEV-000?style=flat&logo=dev.to&logoColor=white
 " target="_blank"></a>
   <a href = "https://exercism.org/profiles/henriquecido"><img src="https://img.shields.io/badge/Exercism-0097A6?style=flat&logo=exercism&logoColor=white" target="_blank"></a>
   <a href="https://github.com/joabehenrique" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" target="_blank"></a>
