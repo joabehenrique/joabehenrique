@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/JoabeHenriquee" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://exercism.org/profiles/henriquecido"><img src="https://img.shields.io/badge/Exercism-0097A6?style=flat&logo=exercism&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/joabehenriquee" target="_blank"><img src="https://img.shields.io/badge/Facebook-0078D4?style=flat&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://t.me/joabehenriquee" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:henriquecidoz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div><br/>
