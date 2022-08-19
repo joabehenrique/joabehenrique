@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
 
 <div> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,6 +21,7 @@ I am a computer science student specializing in software development for web, de
 - ⚡️ Fun-Fact: I love music 🎶.
 
 🚀 <strong>Languages and Tools</strong>
+
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
@@ -38,6 +39,5 @@ I am a computer science student specializing in software development for web, de
 <div align="center">
   <a href="https://github.com/joabehenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joabehenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
