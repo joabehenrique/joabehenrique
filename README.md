@@ -17,7 +17,7 @@ I am a computer science student specializing in software development for web, de
 
 - 🔭 I’m currently working with Elixir and Java technologies.
 - 🌱 I’m currently learning about back-end and front-end technologies.
-- 👨🏽‍💻 I’m currently working on Americanas s.a.
+- 👨🏽‍💻 I’m currently working on Árvore.
 - ⚡️ Fun-Fact: I love music 🎶.
 
 🚀 <strong>Languages and Tools</strong>
