@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/JoabeHenriquee" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://exercism.org/profiles/henriquecido"><img src="https://img.shields.io/badge/Exercism-0097A6?style=flat&logo=exercism&logoColor=white" target="_blank"></a>
@@ -17,12 +17,12 @@ I am a computer science student specializing in software development for web, de
 
 - 🔭 I’m currently working with Elixir and Java technologies.
 - 🌱 I’m currently learning about back-end and front-end technologies.
-- 👨🏽‍💻 I’m currently working on Árvore.
+- 👨🏽‍💻 I’m currently working on Navita BR.
 - ⚡️ Fun-Fact: I love music 🎶.
 
 🚀 <strong>Languages and Tools</strong>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
