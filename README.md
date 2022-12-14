@@ -11,7 +11,7 @@
 
 ✨ <strong>A little about me..</strong>
 
-I am a computer science student specializing in software development for web, desktop and mobile applications. I have focused my studies in technologies for both back-end and front-end because my passion is to be a full stack developer.
+I'm a backend software engineer and a computer science student at Vila Velha university. In the last few years, I have been developing projects in Java/Spring and Elixir/Phoenix programming languages, among others. I am passionate about software development and enthusiastic about technology.
 
 ⚡️ <strong>Some Facts</strong>
 
