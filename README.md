@@ -17,7 +17,7 @@ I'm a backend software engineer and a computer science student at Vila Velha uni
 
 - 🔭 I’m currently working with Elixir and Java technologies.
 - 🌱 I’m currently learning about back-end and front-end technologies.
-- 👨🏽‍💻 I’m currently working on Navita BR.
+- 👨🏽‍💻 I’m currently working on Portobello.
 - ⚡️ Fun-Fact: I love music 🎶.
 
 🚀 <strong>Languages and Tools</strong>
