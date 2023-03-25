@@ -1,13 +1,12 @@
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 0px;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="display: flex; align-items: center; width:auto">
-    <h1 align="center">
+    <h1 align="center" style="margin-top: 0;">
       Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
       <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 0px; vertical-align: middle;">
     </h1>
   </div>
 </div>
-
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
