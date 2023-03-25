@@ -1,8 +1,9 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div  style="display: flex; align-items: center; width:auto">
-    <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique </h1>
+    <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique 
     <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 10px; margin-bottom: 20px;">
+    </h1>
   </div>
 </div>
 
@@ -18,7 +19,7 @@
   <a href="mailto:henriquecidoz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div><br/>
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif' width='300'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif' width='300' style="margin-top: 30px">
 ✨ <strong>A little about me..</strong>
 
 I'm a backend software engineer and a computer science student at Vila Velha University. In the last few years, I have been developing projects in Java/Spring and Elixir/Phoenix programming languages, among others. I'm passionate about software development and enthusiastic about technology. 
@@ -50,8 +51,7 @@ A pleasure to have you here :)
 
 <div align="center">
   <a href="https://github.com/joabehenrique">
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joabehenrique&cc=1A1B27&tc=339E94&ic=BE90F2&bc=FFF
-"/>
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joabehenrique&cc=1A1B27&tc=339E94&ic=BE90F2&bc=FFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <p align="center">
