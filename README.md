@@ -7,7 +7,7 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1a1a40?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/JoabeHenriquee" target="_blank"><img src="https://img.shields.io/badge/Twitter-082032?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "https://exercism.org/profiles/henriquecido"><img src="https://img.shields.io/badge/Exercism-1a1a40?style=flat&logo=exercism&logoColor=white" target="_blank"></a>
+  <a href = "https://exercism.org/profiles/joabehenrique"><img src="https://img.shields.io/badge/Exercism-1a1a40?style=flat&logo=exercism&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/joabehenrique" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-1A1B27?style=flat&logo=leetcode&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/joabehenrique" target="_blank"><img src="https://img.shields.io/badge/-Codewars-1a1a40?style=flat&logo=codewars&logoColor=white" target="_blank"></a>
   <a href="https://www.hackerrank.com/joabehenrique" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-1A1B27?style=flat&logo=hackerrank&logoColor=white" target="_blank"></a>
