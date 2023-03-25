@@ -1,5 +1,5 @@
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 0px;">
   <div style="display: flex; align-items: center; width:auto">
     <h1 align="center">
       Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
