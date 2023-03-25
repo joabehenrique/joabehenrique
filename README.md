@@ -54,3 +54,7 @@ A pleasure to have you here! 🤩
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=60&section=footer&width=100"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joabehenrique&theme=darkhub&row=1"/>
+</p>
+
