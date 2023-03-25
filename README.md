@@ -14,7 +14,7 @@
   <a href="https://www.facebook.com/joabehenriquee" target="_blank"><img src="https://img.shields.io/badge/Facebook-1a1a40?style=flat&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://t.me/joabehenriquee" target="_blank"><img src="https://img.shields.io/badge/Telegram-082032?style=flat&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:henriquecidoz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-1a1a40?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div><br/>
+</div>
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif' width='300' style="margin-top: 30px">
 
@@ -50,7 +50,7 @@ A pleasure to have you here! 🤩
   <a href="https://github.com/joabehenrique">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joabehenrique&cc=1A1B27&tc=339E94&ic=BE90F2&bc=FFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</div><br/>
 
 <p align="center" style="margin-top: 5px;margin-bottom: -5px">
   <img src="https://github-profile-trophy.vercel.app/?username=joabehenrique&theme=darkhub&row=1"/>
