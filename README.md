@@ -15,8 +15,10 @@
   <a href="https://t.me/joabehenriquee" target="_blank"><img src="https://img.shields.io/badge/Telegram-082032?style=flat&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:henriquecidoz@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-1a1a40?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
+<div>
 <img align='right' src='https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif' width='300' style="margin-top: 30px">
+</div>
+
 
 I'm a backend software engineer and a computer science student at Vila Velha University. In the last few years, I have been developing projects in Java/Spring and Elixir/Phoenix programming languages, among others. I'm passionate about software development and enthusiastic about technology. 
 
