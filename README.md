@@ -1,12 +1,13 @@
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 0; padding: 0;">
-  <div style="display: flex; align-items: center; width:auto; margin: 0; padding: 0;">
-    <h1 align="center" style="margin: 0; padding: 0; line-height: 1.2;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; align-items: center; width:auto"> -->
+   
+  <!-- </div>
+</div> -->
+ <h1 align="center" style="margin-top: 0;">
       Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
       <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 0px; vertical-align: middle;">
     </h1>
-  </div>
-</div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/joabehenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,20 +22,19 @@
 </div><br/>
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif' width='300' style="margin-top: 30px">
-✨ <strong>A little about me..</strong>
 
 I'm a backend software engineer and a computer science student at Vila Velha University. In the last few years, I have been developing projects in Java/Spring and Elixir/Phoenix programming languages, among others. I'm passionate about software development and enthusiastic about technology. 
 
-A pleasure to have you here :)
+A pleasure to have you here! 🤩
 
-⚡️ <strong>Some Facts</strong>
+🧐 <strong>Some Facts</strong>
 
 - 🔭 I’m currently working with Elixir and Java technologies.
 - 🌱 I’m currently learning about back-end and front-end technologies.
 - 👨🏽‍💻 I’m currently working on Portobello.
 - ⚡️ Fun-Fact: I love music 🎶.
 
-🚀 <strong>Languages and Tools</strong>
+🔨 <strong>Languages and Tools</strong>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
