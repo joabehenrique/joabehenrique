@@ -1,9 +1,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div  style="display: flex; align-items: center; width:auto">
-    <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique 
-    <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 10px; margin-bottom: 20px;">
-    </h1>
+    <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique </h1>
+    <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 10px">
   </div>
 </div>
 
