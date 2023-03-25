@@ -1,19 +1,9 @@
 
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
-  <div  style="display: flex; align-items: center; width:auto">
-    <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique <img height="25px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 10px;"></h1>
-  </div>
-</div> -->
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
-  <div  style="display: flex; align-items: center; width:auto">
-    <h1 align="center" style="padding-top: 4px;"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique <img height="25px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 10px;"></h1>
-  </div>
-</div> -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="display: flex; align-items: center; width:auto">
     <h1 align="center">
       Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
-      <img height="25px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 0px; vertical-align: middle;">
+      <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 0px; vertical-align: middle;">
     </h1>
   </div>
 </div>
