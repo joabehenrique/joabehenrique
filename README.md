@@ -42,7 +42,7 @@ A pleasure to have you here! 🤩
   <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=angular">
   <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="php" height="40" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="php" height="30" width="40" src="https://skillicons.dev/icons?i=php">
   </br></br>
 </div>
 
