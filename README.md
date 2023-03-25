@@ -1,7 +1,7 @@
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: flex; align-items: center; width:auto">
-    <h1 align="center" style="margin-top: 0;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 0; padding: 0;">
+  <div style="display: flex; align-items: center; width:auto; margin: 0; padding: 0;">
+    <h1 align="center" style="margin: 0; padding: 0; line-height: 1.2;">
       Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="24px">, I'm Joabe Henrique
       <img height="28px" src="https://emojis.slackmojis.com/emojis/images/1643514476/4592/blob-wink.gif?1643514476" style="margin-left: 0px; vertical-align: middle;">
     </h1>
