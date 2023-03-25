@@ -52,7 +52,7 @@ A pleasure to have you here! 🤩
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 5px;margin-bottom: -5px">
   <img src="https://github-profile-trophy.vercel.app/?username=joabehenrique&theme=darkhub&row=1"/>
 </p>
 
