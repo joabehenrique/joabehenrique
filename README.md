@@ -51,10 +51,12 @@ A pleasure to have you here! 🤩
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joabehenrique&cc=1A1B27&tc=339E94&ic=BE90F2&bc=FFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joabehenrique&hide=html&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=60&section=footer&width=100"/>
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joabehenrique&theme=darkhub&row=1"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=60&section=footer&width=100"/>
 </p>
 
